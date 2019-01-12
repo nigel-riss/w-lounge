@@ -1,0 +1,20 @@
+body {
+    // visual
+    background-color: $black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 95vh;
+}
+
+.temp {
+    // box model
+    width: 50vw;
+    text-align: center;
+}
+
+.temp img {
+    // box model
+    max-width: 100%;
+    max-height: 60vh;
+}

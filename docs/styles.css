@@ -1,0 +1,14 @@
+body {
+  background-color: #000000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 95vh; }
+
+.temp {
+  width: 50vw;
+  text-align: center; }
+
+.temp img {
+  max-width: 100%;
+  max-height: 60vh; }
